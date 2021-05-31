@@ -13,3 +13,9 @@ run/
 *.un~
 .tsbuildinfo
 .tsbuildinfo.*
+
+tmp/*
+!tmp/**/*.md
+!tmp/*.md
+!tmp/tmp.jpg
+test.*

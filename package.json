@@ -4,12 +4,22 @@
   "description": "",
   "private": true,
   "dependencies": {
+    "@koa/cors": "^3.1.0",
     "@midwayjs/bootstrap": "^2.3.0",
     "@midwayjs/core": "^2.3.0",
-    "@midwayjs/web": "^2.3.0",
     "@midwayjs/decorator": "^2.3.0",
+    "@midwayjs/faas": "^2.10.18",
+    "@midwayjs/web": "^2.3.0",
+    "acorn": "^8.3.0",
+    "acorn-jsx": "^5.3.1",
     "egg": "^2.0.0",
-    "egg-scripts": "^2.10.0"
+    "egg-scripts": "^2.10.0",
+    "guid-typescript": "^1.0.9",
+    "koa-static-cache": "^5.1.4",
+    "puppeteer": "^9.1.1",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "ts-md5": "^1.2.8"
   },
   "devDependencies": {
     "@midwayjs/cli": "^1.0.0",
