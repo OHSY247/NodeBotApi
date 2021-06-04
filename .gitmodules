@@ -1,0 +1,3 @@
+[submodule "BotApi"]
+	path = BotApi
+	url = https://github.com/OHSY247/BotApi
